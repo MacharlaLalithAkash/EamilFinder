@@ -5,14 +5,14 @@ This Git repository contains Python3 code that takes the user's first name, last
 
 ## How to use
 Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/repo-name.git
+`git clone https://github.com/your-username/repo-name.git`
 
 Ensure that Python3 is installed on your machine. If not, please download and install it from the official website.
 Install the necessary dependencies by running the following command in the terminal:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Run the program by executing the following command in the terminal:
-python main.py
+`python main.py`
 Enter the required details when prompted. The program will generate all possible email permutations and then check if each email is deliverable or not. The results will be displayed on the screen.
 
 ## Contributing
